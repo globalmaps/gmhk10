@@ -11,4 +11,4 @@ Contact: Lands Department, the Government of the Hong Kong SAR.
 
 E-mail: ![email](https://www.iscgm.org/gmd/images/email/hong_kong.png)
 
-URL: www.landsd.gov.hk
+URL: www.landsd.gov.hk/mapping/welcome.htm
